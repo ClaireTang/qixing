@@ -133,7 +133,7 @@
                 "enable" : true
             }
         },
-        "domain" : "http://shop.hnsqixing.com"
+        "domain" : "https://shop.hnsqixing.com"
     },
     "uniStatistics" : {
         "enable" : false

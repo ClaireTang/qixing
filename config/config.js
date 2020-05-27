@@ -1,4 +1,4 @@
-export const apiBaseUrl = 'http://shop.hnsqixing.com/'
+export const apiBaseUrl = 'https://shop.hnsqixing.com/'
 
 export const h5Url = apiBaseUrl + "wap/" //H5端网站地址,
 
